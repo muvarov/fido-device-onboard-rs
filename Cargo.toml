@@ -1,6 +1,5 @@
 [workspace]
 members = [
-    "libfdo-data",
     "data-formats",
     "http-wrapper",
     "store",
